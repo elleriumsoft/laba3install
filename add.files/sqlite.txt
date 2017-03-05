@@ -1,0 +1,5 @@
+                <datasource jta="true" jndi-name="java:jboss/laba3" pool-name="laba3" enabled="true" use-ccm="true">
+                    <connection-url>jdbc:sqlite:forreplaceplace\base.s3db</connection-url>
+                    <driver-class>org.sqlite.JDBC</driver-class>
+                    <driver>sqlite-jdbc-3.16.1.jar</driver>
+                </datasource>
